@@ -1,4 +1,4 @@
-# REST API Test Suite – Student Management System
+# REST API Test Suite – User Management API
 
 ## Tools & Technologies
 Java | REST Assured | TestNG | Maven | Postman
